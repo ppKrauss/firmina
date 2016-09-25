@@ -1,0 +1,12 @@
+local-ID,AnoPub,Tipo,Título ,Editora,Pags,ISBN,ISBN13,NOTAS
+Reis1859,1859,livro,"Úrsola, romance original brasileiro","(1a pub, texto original) Typographia do Progresso, São Luiz",?,,,
+Reis1859-pub2,1975,livro,"Úrsola, a escrava",?Gráfica Olímpica (RJ),198,,,"Edição fac-similar organizada por José Nascimento Morais Filho; Prefácio de Horácio de Almeida. Financiada por São Luiz, Governo do Maranhão"
+Reis1859-pub3,1988,livro,"Úrsola, a escrava",Presença,162,8586480371?,,
+Reis1859-pub4,2004,livro,"Úrsola, a escrava",Editora Mulheres,281,8586480371?,9788586480379,
+Reis1861,1861,livro,Gupeva,"(1a pub, texto original), O jardim dos Maranhenses",?,,,
+Reis1861-pub2,1862,livro,Gupeva,O jardim dos Maranhenses,?,,,
+Reis1861-pub3,1863,livro,Gupeva,Porto Livre e Eco da Juventude,,,,
+Reis1861b,1861,poema-em-revista,(diversos poemas),(revista Parnaso Maranhense),?,,,
+Reis1871,1871,livro-poesias,Cantos à beira-mar,?,?,,,
+Reis1887,1887,conto-em-revista,A escrava,(Revista Maranhense n° 3),?,,,
+Reis1888,1888,poema-em-revista,Hino da libertação dos escravos,?,?,,,
